@@ -1,0 +1,1 @@
+{"rustc":14144357438040049744,"features":"[]","target":7031384880139576278,"profile":11506243869495082934,"path":10049025228815285734,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/backyard-f247557cbdb1c2af/dep-test-bin-backyard"}}],"rustflags":["-Adead_code","-Aunused_variables"],"metadata":7797948686568424061,"config":2202906307356721367,"compile_kind":0}
