@@ -4,8 +4,8 @@ files:
 - name: src/main.rs
   visible: true
   placeholders:
-  - offset: 0
-    length: 43
+  - offset: 16
+    length: 25
     placeholder_text: // put your code here to launch it
     initial_state:
       length: 34
@@ -28,5 +28,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnK
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 26 Mar 2023 10:07:16 UTC"
+  time: "Mon, 03 Apr 2023 22:51:22 UTC"
 record: -1
